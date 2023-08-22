@@ -1,0 +1,122 @@
+.buscador1{
+    color:white;
+    padding-left: 1px;
+    height: 40px;
+    background-color: #00b2a9;
+    border: 0px;
+}
+.cartas{
+    align-items: center;
+}
+
+.derecha{
+    background-color: #f6f6f6;
+}
+
+.azulita{
+    font-weight: bold;
+    color: #00b2a9;
+}
+.texto_footer{
+    color: #f6f6f6;
+    text-align: left;
+}
+
+.padin{
+    padding: 15px;
+}
+
+.boton_analitica{
+    background-color: #00b2a9;
+    color: #f6f6f6;
+    border-color: #f6f6f6;
+    width: 200px;
+    height: 40px;
+}
+
+
+.azul{
+    background-color: #00b2a9;
+}
+.saber{
+    font-weight: bold;
+    text-align: center;
+    color: #00b2a9;
+}
+
+.hacer{
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.negrita{
+    font-weight: bold;
+}
+.boton2{
+    font-weight: bold;
+    background-color: #f05168;
+    border: 0px;
+    width: 280px;
+    height: 40px;
+    color: #f6f6f6;
+}
+.buscador_1 {
+    border-color: white;
+    height: 40px;
+    color: white;
+    background: #027771 no-repeat url(imgenes/search.svg) right 5px top 11px;
+}
+
+
+
+.input_bot{
+    width: 100%;
+}
+
+.colortop{
+    background-color: #00b2a9;
+}
+
+.botones_rss{
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    background-color: #00b2a9;
+    border-color: #00b2a9;
+}
+.padin_top{
+    padding-right: 0px;
+}
+
+.boton_despliegue{
+   
+    font-weight: bold;
+    color: black;
+    background-color: #f6f6f6;
+    border: 0px;
+    width: 200px;
+    height: 40px;
+}
+
+.fondo_lupa{
+
+    width: 40px;
+    margin-left: -6px;
+    border: 0px;
+    height: 44px;
+    background: #f05168 no-repeat url(imgenes/search.svg) right 12px top 13px;
+}
+
+.buscador_2{
+    margin: 0px;
+    width: 180px;
+    height: 45px;
+}
+
+.idiomas{
+    width: 130px;
+    height: 35px;
+    background-color: #00b2a9;
+    border-color: #00b2a9;
+}

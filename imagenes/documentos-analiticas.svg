@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="55px" viewBox="0 0 53 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>35D6AFC4-7AAA-4BEE-B93A-0AE0275B8114</title>
+    <g id="Version-02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LOGIN-DESKTOP" transform="translate(-366.000000, -521.000000)">
+            <g id="Group" transform="translate(337.000000, 505.000000)">
+                <g id="Group-8" transform="translate(29.000000, 16.000000)">
+                    <circle id="Oval" fill="#BFE4E2" cx="26.32" cy="28" r="26.32"></circle>
+                    <rect id="Rectangle-2" fill="#008488" x="7.84" y="2.52" width="36.96" height="50.68" rx="2.352"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="10.08" y="5.6" width="32.48" height="44.52" rx="0.784"></rect>
+                    <rect id="Rectangle" fill="#FDBF00" x="18.76" y="0" width="14.56" height="7.84" rx="0.896"></rect>
+                    <g id="Group-2" transform="translate(13.720000, 20.720000)">
+                        <rect id="Rectangle" fill="#BFE4E2" x="0" y="0" width="4.144" height="4.144" rx="0.448"></rect>
+                        <rect id="Rectangle" fill="#EFE2DD" x="6.72" y="0" width="18.704" height="4.144" rx="0.448"></rect>
+                    </g>
+                    <g id="Group-2" transform="translate(13.720000, 27.440000)">
+                        <rect id="Rectangle" fill="#BFE4E2" x="0" y="0" width="4.144" height="4.144" rx="0.448"></rect>
+                        <rect id="Rectangle" fill="#EFE2DD" x="6.72" y="0" width="18.704" height="4.144" rx="0.448"></rect>
+                    </g>
+                    <g id="Group-2" transform="translate(13.720000, 34.160000)">
+                        <rect id="Rectangle" fill="#BFE4E2" x="0" y="0" width="4.144" height="4.144" rx="0.448"></rect>
+                        <rect id="Rectangle" fill="#EFE2DD" x="6.72" y="0" width="18.704" height="4.144" rx="0.448"></rect>
+                    </g>
+                    <g id="Group-2" transform="translate(13.720000, 40.880000)">
+                        <rect id="Rectangle" fill="#BFE4E2" x="0" y="0" width="4.144" height="4.144" rx="0.448"></rect>
+                        <rect id="Rectangle" fill="#EFE2DD" x="6.72" y="0" width="18.704" height="4.144" rx="0.448"></rect>
+                    </g>
+                    <g id="Group-3" transform="translate(22.680000, 10.360000)" fill="#C61F3D">
+                        <rect id="Rectangle" x="2.352" y="0" width="2.352" height="7.056"></rect>
+                        <rect id="Rectangle" transform="translate(3.528000, 3.528000) rotate(90.000000) translate(-3.528000, -3.528000) " x="2.352" y="0" width="2.352" height="7.056"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
